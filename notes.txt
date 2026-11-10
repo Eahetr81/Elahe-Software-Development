@@ -1,3 +1,0 @@
-My Software Development Project
-Created by Elahe
-Learning Git and GitHub
